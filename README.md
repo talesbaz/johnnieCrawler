@@ -6,8 +6,8 @@ Um simples Cli-crawler
 
 Dependencias
 ============
-http://phantomjs.org/download.html
-https://nodejs.org/en/download/
+* PhatomJs: [phatomJs](http://phantomjs.org/download.html)
+* NodeJS: [nodejs.org](http://nodejs.org)
 
 Instalando as Dependencies
 ============
