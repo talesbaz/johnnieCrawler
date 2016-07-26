@@ -2,6 +2,8 @@
 Um simples Cli-crawler
 ==
 
+[![CircleCI](https://circleci.com/gh/talesbaz/johnnieCrawler/tree/master.svg?style=svg)](https://circleci.com/gh/talesbaz/johnnieCrawler/tree/master)
+
 Dependencias
 ============
 http://phantomjs.org/download.html
