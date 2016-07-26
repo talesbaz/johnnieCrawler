@@ -7,7 +7,7 @@ var gulp        = require('gulp'),
 /**
  * Test
  */
-gulp.task('eslint', () => {
+gulp.task('eslint', funtion() {
 
   return  gulp.src([ '*.js', 'actions/*','!node_modules/*', '!gulpfile.js' ])
                   .pipe(eslint())
