@@ -28,7 +28,6 @@
   "homepage": "https://github.com/talesbaz/johnnieCrawler#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
-    "gulp-eslint": "^3.0.1",
-    "gulp-indent": "^1.0.1"
+    "gulp-eslint": "^3.0.1"
   }
 }
