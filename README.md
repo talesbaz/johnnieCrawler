@@ -2,7 +2,7 @@
 Um simples Cli-crawler
 ==
 
-[![CircleCI](https://circleci.com/gh/talesbaz/johnnieCrawler/tree/master.svg?style=svg)](https://circleci.com/gh/talesbaz/johnnieCrawler/tree/master)
+[![Circle CI](https://circleci.com/gh/talesbaz/johnnieCrawler.svg?style=shield&circle-token=0e8e0bbeb7beb325e9efd5d13b60a97e0ca58ead)](https://circleci.com/gh/talesbaz/johnnieCrawler/)
 
 Dependencias
 ============
