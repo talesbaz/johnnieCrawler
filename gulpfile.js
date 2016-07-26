@@ -1,17 +1,17 @@
+'use strict';
+
 /**
  * Package Dependencies
  */
 var gulp        = require('gulp'),
     eslint      = require('gulp-eslint');
 
-/**
- * Test
- */
-gulp.task('eslint', funtion() {
+gulp.task('eslint', () => {
 
-  return  gulp.src([ '*.js', 'actions/*','!node_modules/*', '!gulpfile.js' ])
-                  .pipe(eslint())
-                  .pipe(eslint.format());
+  return gulp.src([ '*.js', 'actions/*','!node_modules/*', '!gulpfile.js' ])
+                .pipe(eslint())
+                .pipe(eslint.format())
+                .pipe(eslint.failAfterError());
 
 });
 
