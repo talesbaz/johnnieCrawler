@@ -1,0 +1,6 @@
+/vendor/
+logs
+temp
+bower_components
+node_modules
+screenshots/*
