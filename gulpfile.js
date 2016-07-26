@@ -15,4 +15,4 @@ gulp.task('eslint', funtion() {
 
 });
 
-gulp.task('test', ['eslint']);
+gulp.task('test', ['eslint'], function (){});
