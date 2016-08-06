@@ -31,6 +31,6 @@ $ node run.js -x screenshot
 
 > `prompt: Informe a URL tirar o screenshot:`
 
-OR:
+ou:
 
 $ node run.js -x screenshot --url https://www.meuovo.com
